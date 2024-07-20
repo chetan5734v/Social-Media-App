@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "572880722580",
+    "firebase_url": "https://minimal-social-app-e6394-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "minimal-social-app-e6394",
+    "storage_bucket": "minimal-social-app-e6394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572880722580:android:e73e3b4b5c430567aab281",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5mtxVd8EjUH-e7Bfg4xQNiNCyK1BmU54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
